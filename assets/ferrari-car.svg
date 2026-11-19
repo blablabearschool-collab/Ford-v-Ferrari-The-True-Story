@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 210" role="img" aria-label="Vintage red racing car">
+<defs><linearGradient id="paint2" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#dc7563"/><stop offset=".44" stop-color="#ba2f21"/><stop offset="1" stop-color="#761b1c"/></linearGradient><linearGradient id="g2"><stop stop-color="#bbd5da"/><stop offset="1" stop-color="#45606c"/></linearGradient></defs>
+<ellipse cx="290" cy="176" rx="267" ry="18" fill="#442d1d" opacity=".17"/>
+<path d="M24 143c15-24 52-42 112-47 30-8 64-14 96-15l52-35c28-16 95-17 128-4l50 42c48 4 91 19 101 38l9 27-24 13H45L19 153Z" fill="url(#paint2)" stroke="#73221d" stroke-width="5"/>
+<path d="m229 83 59-32c13-7 40-9 54-9l-5 46Z" fill="url(#g2)" stroke="#6b2d30" stroke-width="3"/><path d="m350 43 6 44h100l-44-36c-16-8-33-10-62-8" fill="url(#g2)" stroke="#6b2d30" stroke-width="3"/>
+<path d="M104 109h140m116 0h147" stroke="#edb6a4" stroke-width="5" opacity=".65"/><circle cx="318" cy="117" r="36" fill="#fdf4da" stroke="#76352d" stroke-width="3"/><text x="318" y="131" font-family="Arial" font-size="38" font-weight="900" text-anchor="middle" fill="#4b2b2b">21</text>
+<path d="M26 145h35v15H40M541 134l29 8-2 15h-34" fill="#ebd1b8" stroke="#67251d" stroke-width="3"/>
+<g><circle cx="137" cy="159" r="48" fill="#20191b"/><circle cx="137" cy="159" r="33" fill="#e4d7c5"/><circle cx="137" cy="159" r="27" fill="#9a8c7d"/><circle cx="137" cy="159" r="10" fill="#e5ddd1"/><path d="M137 132v54M110 159h54m-45-19 36 38m0-38-36 38" stroke="#f8ead4" stroke-width="3"/></g>
+<g><circle cx="471" cy="159" r="48" fill="#20191b"/><circle cx="471" cy="159" r="33" fill="#e4d7c5"/><circle cx="471" cy="159" r="27" fill="#9a8c7d"/><circle cx="471" cy="159" r="10" fill="#e5ddd1"/><path d="M471 132v54M444 159h54m-45-19 36 38m0-38-36 38" stroke="#f8ead4" stroke-width="3"/></g>
+</svg>
